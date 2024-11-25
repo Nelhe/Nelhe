@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nelhe!
 - 🌱 I’m currently studying for a master's degree in statistics.
-- 👀 I code for my studies and sometimes for fun - there are situations that just call for a quick t-test, you know?
+- 👀 I code for my studies and sometimes for fun - no, your d20 is balanced, it's in your head.
 - 💻 I use mostly R and Python.
 - ⚡ Fun fact: I'm a perfectionist and will not stop until every single line of text in my code is free of spelling mistakes.
 
